@@ -1,0 +1,65 @@
+<!DOCTYPE html!>
+</html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>trabalho-site</title>
+		<link type="text/css" rel="stylesheet" media="screen" href="style_test.css" /> 
+	</head>
+		<body>
+		<div id="site">
+		<div id="body">
+		<div id="header">
+		<figure>
+			<img src="logoif.png"alt="Imagem IFMS"><figcaption align="center"> </figcaption>
+		</figure>
+		</div>
+		<div id="class"><!-- abrimos a div conteudo -->
+			<strong><h1>o que vc achou do site?? </h1></strong>
+		</div><!-- aqui fechamos a div conteudo -->
+			<form method="POST"align="center" action="avaliaçao.php">
+				<input type="radio" name="muito bom"
+					value="muito bom"><font color="#000000" face="georgian" size="4"> muito bom </font>
+				<input type="radio" name="muito bom"
+					value="bom"><font color="#000000" face="georgian" size="4">  bom </font>
+				<input type="radio" name="muito bom"
+					value="regular"><font color="#000000" face="georgian" size="4"> regular </font>
+				<input type="radio" name="muito bom"
+					value="um lixo"><font color="#000000" face="georgian" size="4"> um lixo </font>
+			</form>
+			<form method="POST" action="aula.php">
+			<select size="1" name="formaçao">
+				<option> Em cartaz  </option>
+				<option>Trilha Sonora </option>	
+				<option>Galeria de fotos</option>
+				<option>Outra</option>
+			</select> Outra:
+				<input type="text" name="nome"size"20">
+				</form>
+				<p>Digite seus comentários abaixo: </p>
+					<textarea rows="4" name="opiniao"
+					cols="40">
+				</textarea><br>
+			<p>Diga-nos como entrar em contato com vc: </p>
+			<em>
+				<form method="POST" action="aula.php"> Nome:
+					<input type="text" name="nome"size"20">
+			</form><em>
+			<form method="POST" action="aula.php"> E-mail:
+				<input type="text" name="nome"size"20">
+			</form><em>
+			<form method="POST" action="aula.php"> Fone:
+				<input type="text" name="nome"size"20">
+			</form><em>
+			<form method="POST" action="aula.php">
+				<input type="checkbox" name="concorda"
+					value="concorda">Quero receber as novidades do site por e-mail<br>
+			</form>
+				<form method="POST" action="aula.php">
+					<input type="submit" value="Enviar Dados"
+						name="btnEnviar">
+					<input type="reset" value="Limpar Formulário"
+						name="btnApagar">
+				</form>
+		</body>
+</html>
+

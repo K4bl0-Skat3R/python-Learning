@@ -1,0 +1,39 @@
+#site{
+    /* Defini a largura da página */
+    width:1000px;
+    /* Definirr altura da página*/
+    height:800px;
+    /* defnir posição que a página ocupará na tela */
+    /*top : posição de cima */
+    margin-top:0;
+    /* left: posição de esquerda*/
+    margin-left:auto;
+    /* bottom : posição de baixo */
+    margin-bottom:0;
+    /* right : posição de direita */
+    margin-right:auto;
+    /*  definir a cor de fundo da página */
+    background-color:#CCF;
+}
+#header{
+    /* definir a largura da div*/
+    width:1000px;
+    /* altura da div */
+    height:125px;
+    /* Cor de fundo da div */
+    background-color:#1E3;
+	margin:0;
+    }
+body{ background-color:#90f;
+    center;
+    }
+select{
+ border-color:#90f; background-color:#1E3;
+}
+fieldset{
+ border-color:#90f; border:#90f 1px solid;
+}
+#conteudo-ficará pra-proxima{
+    /*professor Beto essa semana tem 2 provas senão ia tentar melhorar as tabelas e o corpo da pagina*/
+    
+#}
