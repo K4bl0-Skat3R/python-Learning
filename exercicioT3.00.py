@@ -1,7 +1,7 @@
 #exercicios trabalho 3 reescrito para python
 #prof. Habib
 #aluno: Genilson
-#caucular nota da prova e trabalhos no final mostrar ID do aluno e aprovacao
+#calcular nota da prova e trabalhos no final mostrar ID do aluno e aprovacao
 
 # qual melhor metodo para criar o programa? percebi que usando n/100 o python so interpreta como real 
 #se digitar a nota e forma de real... outro metodo parece ser melhor... se puder me explicar depois..
