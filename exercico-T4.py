@@ -1,6 +1,8 @@
 # coding: utf-8
 # aluno:Genilson Mess
 # prof: habib  
+# usando funcoes
+# comentada as ultimas linhas estava aprendendo a reportar a data atual do sistema :)
   
 
 def converter_para_segundos(dias, horas, minutos, segundos):
