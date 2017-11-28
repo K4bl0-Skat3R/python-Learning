@@ -1,4 +1,4 @@
-#exercicios trabalho 3 reescrito para python
+#exercicios trabalho 3  
 #prof. Habib
 #aluno: Genilson
 #programa recebe 3 valores independent da ordem dos numeros maior ou menor,
