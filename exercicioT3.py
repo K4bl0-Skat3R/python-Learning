@@ -1,7 +1,7 @@
-# exercicios trabalho 3 reescrito para python
+# exercicios trabalho 3 
 #prof. Habib
 #aluno: Genilson
-#caucular nota da prova e trabalhos no final mostrar ID do aluno e aprovacao
+#calcular nota da prova e trabalhos no final mostrar ID do aluno e aprovacao
 #estou mandano 2 exercicios desse, depois me explique as diferencas em usar o divisor
 # como usar e onde usar
 aluno = raw_input("digite o nome ou  a ID do aluno: ")
