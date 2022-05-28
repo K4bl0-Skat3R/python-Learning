@@ -5,8 +5,7 @@
 # PS: o exercico pede apenas para dizer se e um triangulo isosceles
 # professor pra nao me esquecer do raw_input vou usar nesse
 #exercicio pelo visto nas versoes 3.xx novas do python "input" e a mesma coisa
-#o raw_iput pode ser armazenado qlqer coisa (letrs e numros) ja o input apenas numeros
-# me corrija na sala
+#o raw_iput pode ser armazenado qlqer coisa (letrs e numros) 
 
 #TRIANGULOS
 print "digite abaixo os lados de um triangulo qualquer \n"
